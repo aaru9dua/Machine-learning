@@ -10,3 +10,4 @@ The project focusing on employees' safe return to the office amidst the pandemic
 
 Once the model is trained and validated, we move it into production. This involves setting up a system where new data can be fed into the model to make real-time risk assessments. It's important to continuously monitor the model's performance and retrain it as needed to adapt to changing conditions or data patterns. Additionally, I used Tableau to create visually compelling dashboards, identifying critical risk factors. 
  
+![image](https://github.com/aaru9dua/Machine-learning/assets/46483403/8d063432-e004-43d1-93cb-c009bef64fee)
